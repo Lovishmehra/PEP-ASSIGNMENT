@@ -2,6 +2,7 @@ RockGym - Fitness Website
 🚀 RockGym is a modern and responsive fitness website designed to provide essential gym details, trainer information, membership plans, and a BMI calculator to help users track their fitness progress.
 
 🔥 Features
+
 ✔ Dynamic Homepage – Eye-catching design with a motivational tagline.
 ✔ About Section – Information about the gym and its vision.
 ✔ Gallery – A showcase of gym facilities and workouts.
