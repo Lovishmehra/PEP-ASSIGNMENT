@@ -14,7 +14,7 @@ RockGym - Fitness Website
 🛠 Tech Stack
 Frontend: React.js, CSS
 Testing: React Jest
-Deployment: 
+Deployment-liink: https://pep-assignment.vercel.app/
 
 1️⃣ Run the project
 npm run dev
