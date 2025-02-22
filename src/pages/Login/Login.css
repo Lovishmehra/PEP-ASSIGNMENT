@@ -1,0 +1,65 @@
+.auth-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .auth-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #cc0000;
+  }
+  
+  p {
+    margin-top: 15px;
+    color: #555;
+  }
+  
+  p a {
+    color: #ff0000;
+    text-decoration: none;
+  }
+  .auth-container {
+    margin-top: 150px; /* Adjust this value to increase or decrease the gap */
+  }
+  
+  /* Alternatively, if you want to style all pages */
+  main {
+    margin-top: 50px; /* Creates a gap for all main content */
+  }

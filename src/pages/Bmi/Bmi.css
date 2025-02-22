@@ -1,0 +1,107 @@
+/* App.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .bmi-container {
+    max-width: 700px;
+    margin: 80px auto;
+    padding: 20px;
+    /* background: rgb(105, 105, 105); */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(33, 32, 32, 0.2);
+    border-top: 6px solid #c00;
+  }
+  
+  .bmi-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .bmi-header h1 {
+    color: #c00;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .bmi-header p {
+    font-size: 1rem;
+    color: #cfbbbb;
+  }
+  
+  .form-group {
+    margin: 20px 0;
+    text-align: left;
+  }
+  
+  label {
+    font-weight: bold;
+    color: rgb(255, 7, 7);
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .bmi-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  button {
+    padding: 12px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .calculate-btn {
+    background-color: #c00;
+    color: #fff;
+  }
+  
+  .calculate-btn:hover {
+    background-color: #a00;
+  }
+  
+  .reset-btn {
+    background-color: #666;
+    color: #fff;
+  }
+  
+  .reset-btn:hover {
+    background-color: #444;
+  }
+  
+  .bmi-result {
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid rgb(243, 6, 6);
+    border-radius: 5px;
+    /* background-color: #f9f9f9; */
+  }
+  
+  .bmi-result h2 {
+    color: #c00;
+  }
+  
+  .bmi-result p {
+    font-size: 1.2rem;
+    /* color: #333; */
+  }
+  
