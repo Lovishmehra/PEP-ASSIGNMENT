@@ -33,7 +33,7 @@ RockGym is a modern and responsive fitness website designed to provide essential
    ```
 3. Start the development server:
    ```sh
-   npm run dev
+   npm start
    ```
 4. Open your browser and navigate to `http://localhost:3000`
 
