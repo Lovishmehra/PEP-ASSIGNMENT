@@ -23,7 +23,6 @@ RockGym is a modern and responsive fitness website designed to provide essential
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Lovishmehra/PEP-ASSIGNMENT.git
    cd PEP-ASSIGNMENT
 
    ```
